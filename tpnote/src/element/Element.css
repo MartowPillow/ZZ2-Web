@@ -1,0 +1,13 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border-width: 3px;
+    border-style: solid;
+    width: 200px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

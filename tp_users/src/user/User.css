@@ -1,0 +1,15 @@
+.user {
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.user :nth-child(odd){
+    background-color: #efefef;
+}
+.user :nth-child(even){
+    background-color: #ffffff;
+}
+.user :first-child{
+    background-color: #ffffff;
+}
